@@ -13,6 +13,7 @@ CalculateSentenceScore calculates the sentence score based on normalized word fr
 
 Finally, SummarizeText summarizes the text by using the heap nlargest function which returns the n-largest elements of text based on calculated sentence score.
 
+Dataset URL: https://www.kaggle.com/datasets/christianlillelund/donald-trumps-rallies
 
 ### **Dependencies Required**
 ```
